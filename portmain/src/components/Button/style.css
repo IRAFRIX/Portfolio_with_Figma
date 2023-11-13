@@ -1,0 +1,23 @@
+.button {
+  all: unset;
+  background-image: url(../../../static/img/button.svg);
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  height: 84px;
+  position: relative;
+  width: 236px;
+}
+
+.button .next {
+  color: #ff9900;
+  font-family: "Josefin Sans", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+  width: 204px;
+}

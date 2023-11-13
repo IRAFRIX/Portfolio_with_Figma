@@ -1,0 +1,252 @@
+.element-profile {
+  height: 1024px;
+  width: 1440px;
+}
+
+.element-profile .port-menu-bar {
+  height: 1024px;
+  width: 1452px;
+}
+
+.element-profile .overlap {
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.element-profile .overlap-group-wrapper {
+  background-color: #ffffff;
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.element-profile .overlap-group {
+  height: 1000px;
+  left: 24px;
+  position: relative;
+  width: 1388px;
+}
+
+.element-profile .rectangle {
+  background-color: #ff9900;
+  height: 455px;
+  left: 338px;
+  position: absolute;
+  top: 25px;
+  width: 378px;
+}
+
+.element-profile .profile-png {
+  height: 483px;
+  left: 337px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 382px;
+}
+
+.element-profile .div {
+  border: 1px solid;
+  border-color: #ff9900;
+  height: 975px;
+  left: 0;
+  position: absolute;
+  top: 25px;
+  width: 1388px;
+}
+
+.element-profile .line {
+  height: 473px;
+  left: 322px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.element-profile .img {
+  height: 473px;
+  left: 736px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 1px;
+}
+
+.element-profile .line-2 {
+  height: 1px;
+  left: 322px;
+  object-fit: cover;
+  position: absolute;
+  top: 497px;
+  width: 414px;
+}
+
+.element-profile .text-wrapper {
+  color: #000000;
+  font-family: "Josefin Sans", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 764px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  width: 590px;
+}
+
+.element-profile .front-end-back-end {
+  color: #000000;
+  font-family: "Josefin Sans", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 322px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 555px;
+  width: 1020px;
+}
+
+.element-profile .rectangle-2 {
+  background-color: #ffffff;
+  height: 25px;
+  left: 334px;
+  position: absolute;
+  top: 0;
+  width: 448px;
+}
+
+.element-profile .rectangle-3 {
+  height: 1024px;
+  left: 52px;
+  position: absolute;
+  top: 0;
+  width: 248px;
+}
+
+.element-profile .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Josefin Sans", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 97px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 497px;
+  white-space: nowrap;
+  width: 171px;
+}
+
+.element-profile .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Josefin Sans", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 126px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 403px;
+  white-space: nowrap;
+  width: 112px;
+}
+
+.element-profile .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Josefin Sans", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 309px;
+  white-space: nowrap;
+  width: 221px;
+}
+
+.element-profile .group {
+  height: 126px;
+  left: 68px;
+  position: absolute;
+  top: 173px;
+  width: 216px;
+}
+
+.element-profile .overlap-2 {
+  height: 102px;
+  left: 6px;
+  position: relative;
+  width: 201px;
+}
+
+.element-profile .polygon {
+  height: 94px;
+  left: 76px;
+  position: absolute;
+  top: 0;
+  width: 125px;
+}
+
+.element-profile .polygon-2 {
+  height: 102px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 133px;
+}
+
+.element-profile .text-wrapper-5 {
+  color: #ff9900;
+  font-family: "Josefin Sans", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 215px;
+  white-space: nowrap;
+  width: 142px;
+}
+
+.element-profile .rectangle-4 {
+  background-color: #ff9900;
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 25px;
+  width: 334px;
+}
+
+.element-profile .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Josefin Sans", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+  width: 273px;
+}
+
+.element-profile .text-wrapper-7 {
+  color: #ff9900;
+  font-family: "Lateef", Helvetica;
+  font-size: 300px;
+  font-weight: 400;
+  left: 145px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 497px;
+  white-space: nowrap;
+  width: 75px;
+}

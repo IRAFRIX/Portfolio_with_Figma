@@ -1,0 +1,51 @@
+.profile {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.profile .overlap-wrapper {
+  height: 1024px;
+  width: 1440px;
+}
+
+.profile .overlap-3 {
+  height: 1024px;
+  position: relative;
+}
+
+.profile .frame {
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.profile .element-st-profile {
+  width: unset !important;
+}
+
+.profile .button-instance {
+  left: 57px !important;
+  position: absolute !important;
+  top: 874px !important;
+}
+
+.profile .icon-pencil {
+  height: 91px;
+  left: 1120px;
+  position: absolute;
+  top: 874px;
+  width: 90px;
+}
+
+.profile .icon-code {
+  height: 95px;
+  left: 500px;
+  position: absolute;
+  top: 874px;
+  width: 126px;
+}
